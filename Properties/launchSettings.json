@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp semana 6": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
